@@ -68,7 +68,8 @@
 #### 🔹 src/com/hotel/test: carpeta con el testeo de la conexion hacia la DB y el programa;
 #### 🔹 src/com/hotel/views: carpeta con toda la interfaz gráfica de las pantallas del programa;
 #### 🔹 src/imagenes: carpeta con imágenes del proyecto. ;
+---
 
-Puedes descargar el ejecutable desde [aquí](https://github.com/LucasCicconi1704/).
+Puedes descargar el ejecutable desde [aquí](https://github.com/LucasCicconi1704/hotel-java-alura/releases/download/untagged-ee01931314a6f70b3d32/hotel-alura.jar).
 
 
